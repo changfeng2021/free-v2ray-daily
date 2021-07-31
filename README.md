@@ -58,8 +58,9 @@
 
 ![image-20210731225007727](images/v2rayn-5.png)
 
-#### 节点地址
+#### 节点地址（更新时间 `2021-7-31`）
 
 [节点地址](https://www.cfmem.com/2021/07/v2rayfree.html)
 
 订阅地址： `https://cdn.jsdelivr.net/gh/changfeng2021/free-v2ray-daily@master/sub`
+
