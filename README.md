@@ -58,11 +58,15 @@
 
 ![image-20210731225007727](images/v2rayn-5.png)
 
-#### 节点地址（更新时间 `2021-08-06`）
+#### 节点地址（更新时间 `2021-08-07`）
 
 [节点地址](https://www.cfmem.com/2021/07/v2rayfree.html)
 
 [视频教程](https://www.youtube.com/watch?v=odns9TAs4nQ)
 
 订阅地址： `https://cdn.jsdelivr.net/gh/changfeng2021/free-v2ray-daily@master/sub`
+
+> 完整订阅节点比较多时， 会卡。解决视频教程 `https://www.youtube.com/watch?v=CD-hi4mN36A` 
+>
+> 我的博客：`https://www.cfmem.com/2021/07/v2rayfree.html`
 
