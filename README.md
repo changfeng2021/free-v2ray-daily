@@ -64,7 +64,7 @@
 
 [视频教程](https://www.youtube.com/watch?v=odns9TAs4nQ)
 
-> 我的博客：`https://www.cfmem.com/2021/07/v2rayfree.html`
+> 我的博客：`https://www.cfmem.com`
 >
 > 免费节点：`https://www.v2rayse.com`
 
